@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-**Testg2/testg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ **Testg2/kishan.panchal** ✨ 
+Here are some ideas to get you started: basic profile.
 
 - 🔭 I’m currently working on ... php
 - 🌱 I’m currently learning ...sql & php
