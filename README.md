@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... code
 - 📫 How to reach me: ... [instagram.com](https://www.instagram.com/kp_clash/)
 - 😄 Pronouns: ... kishan.panchal
-- ⚡ Fun fact: ... life is fun so as u explore and u will learn more.. 
+- ⚡ Fun fact: ... life is fun so keep exploring and u will learn more.. 
+- 👍🏼 skills: ... in linux:-  [github.com](https://github.com/Testg2/Linux_cheetsheets)
+                 in windows (sql):- [github.com](https://github.com/Testg2/Sql_StoreProcedure)
