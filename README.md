@@ -4,7 +4,7 @@
 Here are some ideas to get you started: basic profile.
 
 - 🔭 I’m currently working on ... php
-- 🌱 I’m currently learning ...sql & php
+- 🌱 I’m currently learning ...sql & php, laravel [laravel files](https://github.com/Testg2/Laravel-test)
 - 👯 I’m looking to collaborate on ... both mentiond above
 - 🤔 I’m looking for help with ... php framework 
 - 💬 Ask me about ... code
